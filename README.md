@@ -1,4 +1,4 @@
-## Oii! Eu sou o Hudson
+## Oii! Eu sou o Hudson Rodrigo
  <div>
   <a href="https://github.com/hudsonpedroso">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hudsonpedroso&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
