@@ -12,7 +12,7 @@
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Rafa-yoda" src="https://media.tenor.com/images/4d512c104adc84aeb76257fe8c232989/tenor.gif">
+  <img align="right" alt="Rafa-yoda" src="https://media1.tenor.com/images/c142ea480d7f882e274e47ba4ce7a926/tenor.gif?itemid=6166819">
 </div>
   
   ##
